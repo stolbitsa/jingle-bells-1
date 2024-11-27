@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>jingle-bells-1</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="wellerman"/>
+  <readme>
+    <ru>90c91de54a3e05a6b3d63011461419b6dadf3ceeeb1c1a6b95943051fc7fb5fc</ru>
+    <en>8224478cb4be8cda1888e8bd9577c1fd58bc2f40952327a5535c395e9aa69ef9</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-1.mp4" size="1981047" type="video/mp4" volume="1">13c470ec114feef037f24c495e185d92264e0f2cb1850c51e6aae592d2cdcb49</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-2.mp4" size="1866998" type="video/mp4" volume="1">d8d054524cb5bb6b529f6bdb7b121139e742b9beb6627acd081798fb4b57b45a</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-3.mp4" size="1807630" type="video/mp4" volume="1">f9c42a6595b85b4a9065439ffbf8a97bc359cf0887a8546577ad5f078fd58df8</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-4.mp4" size="1860826" type="video/mp4" volume="1">558ac6a7681f0ee781891cd743c298798979be47f2ba41464d9a4487c573e01e</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-5.mp4" size="1868383" type="video/mp4" volume="1">4646c22fcc4ee2e954098ab90d61cc6f8692a7c77be690d95eec1d4ccebe4264</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-6.mp4" size="1985824" type="video/mp4" volume="1">a1fb84c2d9dab6ab3256b8900722ce98077e8dfb6894fcc3142ca5b2bfdaddb4</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-7.mp4" size="1818299" type="video/mp4" volume="1">432d84826209464e1424ea26ea5e25702b2ba0c527326cf024755b67104e2c98</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>91</bpm>
+    <lowestNote>85</lowestNote>
+    <tonalities>4</tonalities>
+    <video name="19-jingle-bells-8.mp4" size="1775677" type="video/mp4" volume="1">ce558ef81dbc070c68d503a59d248820c5d4fb3e3893d90f285f78236823e9b8</video>
+    <notes>
+      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
+      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+    </notes>
+  </exercise>
+</level>
