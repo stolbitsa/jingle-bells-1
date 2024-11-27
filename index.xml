@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>jingle-bells-1</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>90c91de54a3e05a6b3d63011461419b6dadf3ceeeb1c1a6b95943051fc7fb5fc</ru>
@@ -32,11 +32,10 @@
     <video name="19-jingle-bells-2.mp4" size="1866998" type="video/mp4" volume="1">d8d054524cb5bb6b529f6bdb7b121139e742b9beb6627acd081798fb4b57b45a</video>
     <notes>
       <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
-      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
-      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
-      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="2" values="5" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="1" ticks="170" durationTicks="27" ppq="96" velocity="0.719"/>
+      <note number="4" values="2" ticks="213" durationTicks="35" ppq="96" velocity="0.719"/>
+      <note number="5" values="3" ticks="255" durationTicks="82" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -46,12 +45,13 @@
     <tonalities>4</tonalities>
     <video name="19-jingle-bells-3.mp4" size="1807630" type="video/mp4" volume="1">f9c42a6595b85b4a9065439ffbf8a97bc359cf0887a8546577ad5f078fd58df8</video>
     <notes>
-      <note number="1" values="3" ticks="73" durationTicks="36" ppq="96" velocity="0.843"/>
-      <note number="2" values="3" ticks="121" durationTicks="35" ppq="96" velocity="0.739"/>
-      <note number="3" values="3" ticks="170" durationTicks="81" ppq="96" velocity="0.719"/>
-      <note number="4" values="3" ticks="264" durationTicks="24" ppq="96" velocity="0.719"/>
-      <note number="5" values="3" ticks="300" durationTicks="29" ppq="96" velocity="0.719"/>
-      <note number="6" values="3" ticks="343" durationTicks="95" ppq="96" velocity="0.719"/>
+      <note number="1" values="4" ticks="113" durationTicks="36" ppq="96" velocity="0.843"/>
+      <note number="2" values="4" ticks="161" durationTicks="35" ppq="96" velocity="0.739"/>
+      <note number="3" values="4" ticks="210" durationTicks="36" ppq="96" velocity="0.719"/>
+      <note number="4" values="4" ticks="258" durationTicks="21" ppq="96" velocity="0.719"/>
+      <note number="5" values="4" ticks="289" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="337" durationTicks="34" ppq="96" velocity="0.719"/>
+      <note number="7" values="3" ticks="384" durationTicks="44" ppq="96" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="4">
